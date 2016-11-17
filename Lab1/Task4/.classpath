@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Users/Ирина/.p2/pool/plugins/org.eclipse.m2e.archetype.common_1.7.0.20160603-1931/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/Учебка/Учебка 3.1/ВТ/Лабы/Lab1/readerdata.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
